@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+chroma_db/
+*.sqlite3
+*.bin
+*.pickle
+*.pyc
+
+raw_samples_*.jsonl
+cleaned_data.jsonl

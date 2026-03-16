@@ -1,0 +1,29 @@
+============================================================
+  BÁO CÁO TIỀN XỬ LÝ DỮ LIỆU
+============================================================
+File gốc        : raw_samples_30000_final_20260309.jsonl
+File sạch        : cleaned_data.jsonl
+
+Tống số bản ghi gốc     : 31785
+  - JSON lỗi             : 0
+  - Thiếu title/content  : 949
+  - Trùng URL            : 203
+  - Content quá ngắn     : 0
+  - Content quá dài      : 4
+  - Trùng nội dung       : 15
+  → Tổng loại bỏ         : 1171
+
+Bản ghi sạch còn lại    : 30614
+
+Phân bổ theo nguồn:
+  thanhnien       :  15405  (50.3%)
+  dantri          :  15209  (49.7%)
+
+Thống kê độ dài content (ký tự):
+  min    = 303
+  Q1     = 1832
+  median = 2660
+  Q3     = 3797
+  max    = 29136
+  avg    = 3020
+============================================================

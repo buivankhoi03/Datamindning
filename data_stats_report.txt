@@ -1,0 +1,63 @@
+=================================================================
+   BÁO CÁO KHẢO SÁT DỮ LIỆU THÔ
+=================================================================
+File               : raw_samples_30000_final_20260309.jsonl
+Kích thước file    : 135.6 MB
+
+─── TỔNG QUAN ───
+  Tổng bản ghi         : 31,785
+  Dòng JSON lỗi        : 0
+  ID range             : 1 → 19808
+
+─── THIẾU TRƯỜNG ───
+  Thiếu title          :    949  (3.0%)
+  Thiếu description    :  1,068  (3.4%)
+  Thiếu content        :    784  (2.5%)
+  Thiếu url            :      0  (0.0%)
+  Thiếu source         :      0  (0.0%)
+
+─── TRÙNG LẶP ───
+  URL trùng            :    217 bản ghi  (217 URL bị trùng)
+  Content trùng (hash) :    221 bản ghi  (210 nội dung bị trùng)
+
+─── UNICODE LỖI ───
+  Bản ghi chứa U+FFFD :      1
+
+─── PHÂN BỔ THEO NGUỒN ───
+  thanhnien       : 16,214  ( 51.0%)  █████████████████████████
+  dantri          : 15,571  ( 49.0%)  ████████████████████████
+
+─── PHÂN PHỐI ĐỘ DÀI CONTENT ───
+  min    =      303 ký tự
+  Q1     =    1,836 ký tự
+  median =    2,672 ký tự
+  Q3     =    3,816 ký tự
+  max    =  566,007 ký tự
+  avg    =    3,092 ký tự
+
+─── PHÂN NHÓM ĐỘ DÀI CONTENT ───
+  0 (trống)              :    784  (  2.5%)  █
+  1-199 (quá ngắn)       :      0  (  0.0%)  
+  200-499                :    135  (  0.4%)  █
+  500-999                :  1,121  (  3.5%)  █
+  1000-1999              :  8,139  ( 25.6%)  ████████████
+  2000-4999              : 18,244  ( 57.4%)  ████████████████████████████
+  5000-9999              :  3,085  (  9.7%)  ████
+  10000-49999            :    273  (  0.9%)  █
+  50000+ (quá dài)       :      4  (  0.0%)  █
+
+─── TOP 10 DOMAIN ───
+  thanhnien.vn                   : 16,214
+  dantri.com.vn                  : 15,571
+
+─── BẢN GHI CONTENT NGẮN NHẤT ───
+  id=10889  source=thanhnien  len=303
+  url=https://thanhnien.vn/ong-zelensky-khong-xin-loi-nhung-san-sang-theo-su-lanh-dao-manh-me-cua-ong-trump-185250305112556985.htm
+  title=Ông Zelensky không xin lỗi nhưng chấp nhận 'sự lãnh đạo mạnh mẽ' của ông Trump
+
+─── BẢN GHI CONTENT DÀI NHẤT ───
+  id=11471  source=dantri  len=566007
+  url=https://dantri.com.vn/tam-long-nhan-ai/danh-sach-ban-doc-ung-ho-tuan-5-thang-4-va-tuan-1-thang-5-20210523072948974.htm
+  title=Danh sách bạn đọc ủng hộ tuần 5 tháng 4 và tuần 1 tháng 5
+
+=================================================================
