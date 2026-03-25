@@ -4,8 +4,8 @@
 
 Dataset is stored on Google Drive due to GitHub file size limits.
 
-- Download data here: **(https://drive.google.com/file/d/1skYgbVdjSD5BVZeecbuD9zWfw824x2gj/view?usp=drive_link)**
-- Raw data here : **(https://drive.google.com/file/d/1-1Rm1IxuloDlgC6nyOlLguhhVhsSoBgl/view?usp=sharing)**
+- Download data here: **Contact me**
+- Raw data here : ****
 
 ### Files provided in the Drive folder
 - `raw_samples_30000_final_20260309.jsonl`
