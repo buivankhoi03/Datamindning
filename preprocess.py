@@ -3,10 +3,6 @@
 """
 preprocess.py  –  Tiền xử lý & làm sạch dữ liệu báo tiếng Việt
 =================================================================
-⚠️  CHỈ ĐỌC file gốc, KHÔNG BAO GIỜ ghi đè lên file gốc.
-    Kết quả luôn được ghi ra file MỚI (cleaned_data.jsonl).
-    File gốc giữ nguyên 100% để có thể chạy lại bất kỳ lúc nào.
-
 Input : raw_samples_30000_final_20260309.jsonl   (dữ liệu thô — giữ nguyên)
 Output: cleaned_data.jsonl                       (bản ghi sạch, reindex id)
         cleaning_report.txt                      (báo cáo thống kê)
